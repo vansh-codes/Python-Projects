@@ -1,12 +1,12 @@
 <h1 align="center">Python Projects</h1>
 
-![AI-Text-Summarizer-App](https://socialify.git.ci/vansh-codes/Python Projects/image?name=1&owner=1&theme=Dark)
+![AI-Text-Summarizer-App](https://socialify.git.ci/vansh-codes/Python-Projects/image?name=1&owner=1&theme=Dark)
 
 <div align="center">
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" height=40px/> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvansh-codes%2FPython%20Projects
-&label=visitors&countColor=%2337d67a&style=for-the-badge&labelStyle=upper" height=40px /> <img src="https://img.shields.io/github/last-commit/vansh-codes/Python%20Projects?style=for-the-badge" height=40px />
-<img src="https://img.shields.io/github/repo-size/vansh-codes/Python%20Projects?style=for-the-badge" height=40px> <br/> <br/>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" height=40px/> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvansh-codes%2FPython-Projects
+&label=visitors&countColor=%2337d67a&style=for-the-badge&labelStyle=upper" height=40px /> <img src="https://img.shields.io/github/last-commit/vansh-codes/Python-Projects?style=for-the-badge" height=40px />
+<img src="https://img.shields.io/github/repo-size/vansh-codes/Python-Projects?style=for-the-badge" height=40px> <br/> <br/>
 
 
 </div>
@@ -21,15 +21,14 @@
     - [Projects Include](#projects-include)
     - [Highlights](#highlights)
 - [💻Technology Stack](#technology-stack)
+- [📜Project Descriptions](#project-descriptions)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Getting Started](#getting-started-1)
-- [🌐Web Application](#web-application)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [📞Contact](#contact)
-  - [- Created by **Vansh Chaurasiya**](#--created-by-vansh-chaurasiya)
 - [🔗Links](#links)
 
 ## ✨Repository Overwiew
@@ -47,37 +46,40 @@ This repository features a mix of `Command-Line Interface (CLI)` and `Graphical 
 
 ## 💻Technology Stack
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## 📜Project Descriptions
+### 1.Classmate Repostory
+### 2.Currency Converter
+### 3.Days Survived
+### 4.Email Slicer
+### 5.Encrypt String
+### 6.Guess Game
+### 7.Password Generator
+### 8.Prime Composite Number in a given range
+### 9.Print tables in a given range
+### 10.Stone Paper Scissor
+### 11.Triangles Equality
+### 12.Word Reverse
 
 ## Getting Started
 
 ### Prerequisites
 
-- Node.js and npm installed on your machine
-- Hugging Face API token
+- Python installed in the system
+- Python packages depending upon the project
+     - tkinter, tkcalendar, requests, etc
 
 ### Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vansh-codes/AI-Text-Summarizer-App.git
+   git clone https://github.com/vansh-codes/Python-Projects.git
    ```
-2. Create a `.env` file in the root directory and add your Hugging Face API token:
-   ```bash
-   ACCESS_TOKEN=your_hugging_face_api_token
-   ```
-3. run `node index.js`
-4. Open `localhost:3000` in your web browser to start using the application.
-
-## 🌐Web Application
-1. Access here: [AI-Text-Summarizer](https://ai-text-summarizer-app-gold.vercel.app/)
+2. Start working and editing the Project you like 👀
 
 ## Usage
 
-1. Open the application in your browser.
-2. Paste your text into the "Paste in some text to summarize" text area. Ensure that the text length is between 200 and 100,000 characters.
-3. Click the "Summarize" button to get a concise summary of the text.
-4. Optionally, click the "Add Default Text" button to insert dummy text into the text area for testing purposes.
 
 ## Contributing
 
